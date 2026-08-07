@@ -13,5 +13,6 @@ Important steps for git workflow:
 5. Commit changes to version history
 6. REview previous changes with git log
 
-I once went to the rive and saw a great big otter.
-The otter was angry!
+## Table of Contents 
+
+- example_file.txt
